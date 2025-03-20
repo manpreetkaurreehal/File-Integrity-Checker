@@ -95,10 +95,19 @@ Scenario 2: First Integrity Check (No Changes)
 
 ![Image](https://github.com/user-attachments/assets/8d64bcfd-f327-47cb-a2ed-782c35a845b5)
 
-(Assuming no files were changed since the baseline was created)
+(no files were changed since the baseline was created)
 
 Scenario 3: Integrity Check (Modified File)
 
-(Assuming report.txt was modified)
+![Image](https://github.com/user-attachments/assets/76ed606f-fcd3-446c-869d-4609f96edd8d)
 
+(atm.cpp was modified)
+
+Scenario 4: Integrity Check (New and Deleted Files)
+
+Scenario 5: Error Cases
+
+a) Directory Doesn't Exist
+
+b) No Baseline Exists
 
