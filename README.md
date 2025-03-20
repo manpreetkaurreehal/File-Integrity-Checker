@@ -88,29 +88,29 @@ Even tiny changes produce a new hash, ensuring accurate detection.
 
 ## **Example Outputs**
 
-Scenario 1: Creating a Baseline
+### Scenario 1: Creating a Baseline
 
 ![Image](https://github.com/user-attachments/assets/698f9de2-c99b-49e1-b6ad-8d40080513e4)
 
 (The script creates a file_hashes.json file containing hashes of all files in E:\PROJECTS\cpp projects)
 
-Scenario 2: First Integrity Check (No Changes)
+### Scenario 2: First Integrity Check (No Changes)
 
 ![Image](https://github.com/user-attachments/assets/8d64bcfd-f327-47cb-a2ed-782c35a845b5)
 
 (no files were changed since the baseline was created)
 
-Scenario 3: Integrity Check (Modified File)
+### Scenario 3: Integrity Check (Modified File)
 
 ![Image](https://github.com/user-attachments/assets/76ed606f-fcd3-446c-869d-4609f96edd8d)
 
 (atm.cpp was modified)
 
-Scenario 4: Integrity Check (New and Deleted Files)
+### Scenario 4: Integrity Check (New and Deleted Files)
 
 ![Image](https://github.com/user-attachments/assets/0923215e-c6fa-494d-8f88-b0a76dddf0f3)
 
-Scenario 5: Error Cases
+### Scenario 5: Error Cases
 
 a) Directory Doesn't Exist
 
