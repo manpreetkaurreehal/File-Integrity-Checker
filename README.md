@@ -99,6 +99,6 @@ Scenario 2: First Integrity Check (No Changes)
 
 Scenario 3: Integrity Check (Modified File)
 
-
+(Assuming report.txt was modified)
 
 
