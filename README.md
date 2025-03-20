@@ -87,3 +87,5 @@ PyCharm: IDE for writing, debugging, and running the script.
 
 Scenario 1: Creating a Baseline
 
+![Image](https://github.com/user-attachments/assets/698f9de2-c99b-49e1-b6ad-8d40080513e4)
+
