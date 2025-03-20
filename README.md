@@ -105,7 +105,7 @@ Scenario 3: Integrity Check (Modified File)
 
 Scenario 4: Integrity Check (New and Deleted Files)
 
-![Image](https://github.com/user-attachments/assets/76ed606f-fcd3-446c-869d-4609f96edd8d)
+![Image](https://github.com/user-attachments/assets/0923215e-c6fa-494d-8f88-b0a76dddf0f3)
 
 Scenario 5: Error Cases
 
