@@ -93,7 +93,12 @@ Scenario 1: Creating a Baseline
 
 Scenario 2: First Integrity Check (No Changes)
 
+![Image](https://github.com/user-attachments/assets/8d64bcfd-f327-47cb-a2ed-782c35a845b5)
+
 (Assuming no files were changed since the baseline was created)
 
 Scenario 3: Integrity Check (Modified File)
+
+
+
 
