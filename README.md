@@ -89,3 +89,11 @@ Scenario 1: Creating a Baseline
 
 ![Image](https://github.com/user-attachments/assets/698f9de2-c99b-49e1-b6ad-8d40080513e4)
 
+(The script creates a file_hashes.json file containing hashes of all files in E:\PROJECTS\cpp projects)
+
+Scenario 2: First Integrity Check (No Changes)
+
+(Assuming no files were changed since the baseline was created)
+
+Scenario 3: Integrity Check (Modified File)
+
