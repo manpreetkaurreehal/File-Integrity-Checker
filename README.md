@@ -111,5 +111,7 @@ Scenario 5: Error Cases
 
 a) Directory Doesn't Exist
 
+![Image](https://github.com/user-attachments/assets/76ed606f-fcd3-446c-869d-4609f96edd8d)
+
 b) No Baseline Exists
 
