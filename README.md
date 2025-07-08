@@ -1,17 +1,5 @@
 # File-Integrity-Checker
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: MANPREET KAUR
-
-*INTERN ID*: CT6WUNN
-
-*DOMAIN*: CYBER SECURITY AND ETHICAL HACKING
-
-*DURATION*: 6 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 ## **OVERVIEW**
 
 A Python-based tool to monitor and verify file integrity by calculating and comparing hash values.
